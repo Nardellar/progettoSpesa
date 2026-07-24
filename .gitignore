@@ -1,0 +1,8 @@
+/bin/
+*.class
+*.dat
+liste.txt
+.idea/workspace.xml
+.idea/shelf/
+out/
+*.log
